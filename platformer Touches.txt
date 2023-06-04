@@ -1,0 +1,7 @@
+Flèches Gauche et Droite : Se déplacer
+Maj : Sprinter
+Espace : Sauter
+Flèches Haut et Bas : viser vers le haut et le bas
+R : Tirer
+F et G : Changer de projectile 
+E : se téléporter (torche touchée)/ Se cacher (devant buisson)
